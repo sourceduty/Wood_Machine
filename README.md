@@ -11,6 +11,9 @@ In addition to hardware design, this GPT also offers insights into software solu
 Finally, this GPT addresses industry-specific challenges, such as safety, maintenance, and energy efficiency. It can suggest modifications to enhance operator safety on wood splitters, like integrating emergency stop functions or improving shielding around moving parts. In terms of maintenance, it might advise on designing machines with easy-access components for faster repairs or recommend automation features to monitor wear and tear. This GPT is designed to be a comprehensive resource for those involved in the wood processing industry, helping to create machines like sawmill conveyors, wood chippers, and log splitters that are not only efficient but also safe and user-friendly.
 
 #
+![Night Forest Chainsaw Humanoid](https://github.com/user-attachments/assets/ce7011f3-319c-4cdf-b8dc-d6855802b025)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
