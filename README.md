@@ -23,6 +23,8 @@ Finally, this GPT addresses industry-specific challenges, such as safety, mainte
 [Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
 <br>
 [Shoreline Trimmer](https://github.com/sourceduty/Shoreline_Trimmer)
+<br>
+[Gold](https://github.com/sourceduty/Gold)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
